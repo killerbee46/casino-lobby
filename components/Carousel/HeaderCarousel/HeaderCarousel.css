@@ -1,0 +1,28 @@
+.header_carousel_wrapper{
+    height:200px; 
+    width:'100%'; 
+    margin-top:10px;
+}
+.header_carousel_wrapper .header_carousel_content{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://imgs.search.brave.com/5EVDWdJlZDPDyOozV_do_gAyoRVE1UxKkoSSXVcqce0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmdhbWVyYW50/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMDQv/aGFsby00LWNvdmVy/LmpwZw'); 
+    height:'100%'; 
+    width:'100%';
+    display:'flex';
+    flex-direction:'column';
+    align-items:'center';
+    justify-content:'center';
+}
+.carousel_title{
+    margin: 10px auto;
+    text-align: center;
+    color: white;
+    font-size: larger;
+    font-weight: 600;
+}
+.carousel_title.big{
+    margin: 12px auto;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    width: 80%;
+}

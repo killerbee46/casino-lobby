@@ -1,0 +1,10 @@
+.game_card_prefix_num {
+    position: absolute;
+    left: 10px;
+    bottom: -60px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    color: #16111C;
+    font-size: 250px;
+    font-weight: 900;
+  }

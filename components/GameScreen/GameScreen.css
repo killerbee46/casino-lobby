@@ -1,0 +1,39 @@
+.control_button{
+    background: #3F3022;
+    border: 1px solid #1F110D;
+    min-width: 100px;
+    position: relative;
+}
+.control_button.bet{
+    height: 60px;
+}
+.control_button.start{
+    width: 150px;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+.control_button.bet .buttons{
+    width: 20%;
+}
+.control_button.bet .buttons.plus{
+    margin-top: 5px;
+    border-left: #3F3022;
+}
+.control_button.bet .buttons{
+    width: 20%;
+}
+.control_button .bet-details{
+    width: 60%;
+}
+
+.control_button .bet-details .head{
+    position: absolute;
+    top: -25px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: larger;
+}
+.control_button.controls{
+    height:60px;
+}

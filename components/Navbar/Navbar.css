@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    margin-bottom: 10px;
+}
+.navbar .title{
+    font-size: large;
+    background: -webkit-linear-gradient(#FFFF33,#FB9F03);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
